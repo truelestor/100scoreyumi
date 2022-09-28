@@ -1,0 +1,18 @@
+{
+  "name": "100scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "what considered good credit score ◄ Get Your FREE Credit Score what considered good credit score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "what considered good credit score",
+    "credit score rating chart",
+    "credit score needed to lease a car",
+    "credit score without credit card",
+    "credit score quicken loans"
+  ],
+  "repository": "https://github.com/truelestor/100scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
